@@ -125,10 +125,10 @@ contract VulnerableShop is Ownable {
         */
     }
 
-    // /**
-    //     @notice Reimburse a buyer. 
-    //     @param itemId The ID of the item being reimbursed
-    //  */
+    /**
+        @notice Reimburse a buyer. 
+        @param itemId The ID of the item being reimbursed
+     */
     function reimburse(address user) external onlyOwner {
         uint amount = disputed_items[user].price; 		
 		/*
