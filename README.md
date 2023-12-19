@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Ethereum: Seguridad y Buenas Prácticas (DApps)
+## -Sprint 3- ## Informe de Auditoria
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+<img width="600" alt="image" src="https://github.com/jcontrerasd/Vulnerabilidades-Smart-Contract/assets/27821228/ed857d84-778a-4ec6-967d-9f506d518966">
 
-Try running some of the following tasks:
+  _Jaime Contreras | Master en Blockchain, Metaverso y NFT's | Diciembre 2023_
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+  
